@@ -1,3 +1,9 @@
+<img width="322" height="684" alt="home" src="https://github.com/user-attachments/assets/dbd8a7cd-cab4-44c9-9ca8-131dc89f88cb" />
+<img width="364" height="694" alt="filmesfav" src="https://github.com/user-attachments/assets/85ab7a25-b957-49b9-a807-f9fa58c01bbc" />
+
+
+
+
 # 🎬 App de Filmes
  
 ## 📖 Sobre o Projeto
@@ -37,3 +43,4 @@ Durante o desenvolvimento foram aplicados conhecimentos em:
  
 **Ester Fidelis Macedo**
 **Rafael Oliveira**
+
