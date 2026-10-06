@@ -33,7 +33,7 @@ Durante o desenvolvimento foram aplicados conhecimentos em:
 - Gerenciamento de layout e estilos;
 - Boas práticas de programação.
  
-## 👩‍💻 Autora
+## 👩‍💻 Autores
  
 **Ester Fidelis Macedo**
 **Rafael Oliveira**
